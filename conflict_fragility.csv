@@ -1,4 +1,4 @@
-country,Country Code,year,Time Code,battle_related_deaths,"intentional_homicides (per 100,000 people)","intentional_homicides_female (per 100,000 female)","intentional_homicides_male (per 100,000 male)","internally_displaced_persons, new displacement associated with conflict and violence (number of cases)","internally_displaced_persons, new displacement associated with disasters (number of cases)",internally_displaced_persons_total_displaced_by_conflict
+country,Country Code,year,Time Code,battle_related_deaths,"intentional_homicides","intentional_homicides_female","intentional_homicides_male","internally_displaced_persons","internally_displaced_persons_disasters",internally_displaced_persons_total_displaced_by_conflict
 Afghanistan,AFG,1960,YR1960,,,,,,,
 Afghanistan,AFG,1961,YR1961,,,,,,,
 Afghanistan,AFG,1962,YR1962,,,,,,,
