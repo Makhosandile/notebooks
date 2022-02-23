@@ -1,0 +1,251 @@
+,country,iso3,iso2,phone_code,capital,currency,currency_symbol,region,sub_region,latitude,longitude,emoji
+0,Afghanistan,AFG,AF,93,Kabul,AFN,؋,Asia,Southern Asia,33.0,65.0,🇦🇫
+1,Aland Islands,ALA,AX,+358-18,Mariehamn,EUR,€,Europe,Northern Europe,60.116667,19.9,🇦🇽
+2,Albania,ALB,AL,355,Tirana,ALL,Lek,Europe,Southern Europe,41.0,20.0,🇦🇱
+3,Algeria,DZA,DZ,213,Algiers,DZD,دج,Africa,Northern Africa,28.0,3.0,🇩🇿
+4,American Samoa,ASM,AS,+1-684,Pago Pago,USD,$,Oceania,Polynesia,-14.33333333,-170.0,🇦🇸
+5,Andorra,AND,AD,376,Andorra la Vella,EUR,€,Europe,Southern Europe,42.5,1.5,🇦🇩
+6,Angola,AGO,AO,244,Luanda,AOA,Kz,Africa,Middle Africa,-12.5,18.5,🇦🇴
+7,Anguilla,AIA,AI,+1-264,The Valley,XCD,$,Americas,Caribbean,18.25,-63.16666666,🇦🇮
+8,Antarctica,ATA,AQ,,,,$,Polar,,-74.65,4.48,🇦🇶
+9,Antigua And Barbuda,ATG,AG,+1-268,St. John's,XCD,$,Americas,Caribbean,17.05,-61.8,🇦🇬
+10,Argentina,ARG,AR,54,Buenos Aires,ARS,$,Americas,South America,-34.0,-64.0,🇦🇷
+11,Armenia,ARM,AM,374,Yerevan,AMD,֏,Asia,Western Asia,40.0,45.0,🇦🇲
+12,Aruba,ABW,AW,297,Oranjestad,AWG,ƒ,Americas,Caribbean,12.5,-69.96666666,🇦🇼
+13,Australia,AUS,AU,61,Canberra,AUD,$,Oceania,Australia and New Zealand,-27.0,133.0,🇦🇺
+14,Austria,AUT,AT,43,Vienna,EUR,€,Europe,Western Europe,47.33333333,13.33333333,🇦🇹
+15,Azerbaijan,AZE,AZ,994,Baku,AZN,m,Asia,Western Asia,40.5,47.5,🇦🇿
+16,Bahamas The,BHS,BS,+1-242,Nassau,BSD,B$,Americas,Caribbean,24.25,-76.0,🇧🇸
+17,Bahrain,BHR,BH,973,Manama,BHD,.د.ب,Asia,Western Asia,26.0,50.55,🇧🇭
+18,Bangladesh,BGD,BD,880,Dhaka,BDT,৳,Asia,Southern Asia,24.0,90.0,🇧🇩
+19,Barbados,BRB,BB,+1-246,Bridgetown,BBD,Bds$,Americas,Caribbean,13.16666666,-59.53333333,🇧🇧
+20,Belarus,BLR,BY,375,Minsk,BYN,Br,Europe,Eastern Europe,53.0,28.0,🇧🇾
+21,Belgium,BEL,BE,32,Brussels,EUR,€,Europe,Western Europe,50.83333333,4.0,🇧🇪
+22,Belize,BLZ,BZ,501,Belmopan,BZD,$,Americas,Central America,17.25,-88.75,🇧🇿
+23,Benin,BEN,BJ,229,Porto-Novo,XOF,CFA,Africa,Western Africa,9.5,2.25,🇧🇯
+24,Bermuda,BMU,BM,+1-441,Hamilton,BMD,$,Americas,Northern America,32.33333333,-64.75,🇧🇲
+25,Bhutan,BTN,BT,975,Thimphu,BTN,Nu.,Asia,Southern Asia,27.5,90.5,🇧🇹
+26,Bolivia,BOL,BO,591,Sucre,BOB,Bs.,Americas,South America,-17.0,-65.0,🇧🇴
+27,"Bonaire, Sint Eustatius and Saba",BES,BQ,599,Kralendijk,USD,$,Americas,Caribbean,12.15,-68.266667,🇧🇶
+28,Bosnia and Herzegovina,BIH,BA,387,Sarajevo,BAM,KM,Europe,Southern Europe,44.0,18.0,🇧🇦
+29,Botswana,BWA,BW,267,Gaborone,BWP,P,Africa,Southern Africa,-22.0,24.0,🇧🇼
+30,Bouvet Island,BVT,BV,0055,,NOK,kr,,,-54.43333333,3.4,🇧🇻
+31,Brazil,BRA,BR,55,Brasilia,BRL,R$,Americas,South America,-10.0,-55.0,🇧🇷
+32,British Indian Ocean Territory,IOT,IO,246,Diego Garcia,USD,$,Africa,Eastern Africa,-6.0,71.5,🇮🇴
+33,Brunei,BRN,BN,673,Bandar Seri Begawan,BND,B$,Asia,South-Eastern Asia,4.5,114.66666666,🇧🇳
+34,Bulgaria,BGR,BG,359,Sofia,BGN,Лв.,Europe,Eastern Europe,43.0,25.0,🇧🇬
+35,Burkina Faso,BFA,BF,226,Ouagadougou,XOF,CFA,Africa,Western Africa,13.0,-2.0,🇧🇫
+36,Burundi,BDI,BI,257,Bujumbura,BIF,FBu,Africa,Eastern Africa,-3.5,30.0,🇧🇮
+37,Cambodia,KHM,KH,855,Phnom Penh,KHR,KHR,Asia,South-Eastern Asia,13.0,105.0,🇰🇭
+38,Cameroon,CMR,CM,237,Yaounde,XAF,FCFA,Africa,Middle Africa,6.0,12.0,🇨🇲
+39,Canada,CAN,CA,1,Ottawa,CAD,$,Americas,Northern America,60.0,-95.0,🇨🇦
+40,Cape Verde,CPV,CV,238,Praia,CVE,$,Africa,Western Africa,16.0,-24.0,🇨🇻
+41,Cayman Islands,CYM,KY,+1-345,George Town,KYD,$,Americas,Caribbean,19.5,-80.5,🇰🇾
+42,Central African Republic,CAF,CF,236,Bangui,XAF,FCFA,Africa,Middle Africa,7.0,21.0,🇨🇫
+43,Chad,TCD,TD,235,N'Djamena,XAF,FCFA,Africa,Middle Africa,15.0,19.0,🇹🇩
+44,Chile,CHL,CL,56,Santiago,CLP,$,Americas,South America,-30.0,-71.0,🇨🇱
+45,China,CHN,CN,86,Beijing,CNY,¥,Asia,Eastern Asia,35.0,105.0,🇨🇳
+46,Christmas Island,CXR,CX,61,Flying Fish Cove,AUD,$,Oceania,Australia and New Zealand,-10.5,105.66666666,🇨🇽
+47,Cocos (Keeling) Islands,CCK,CC,61,West Island,AUD,$,Oceania,Australia and New Zealand,-12.5,96.83333333,🇨🇨
+48,Colombia,COL,CO,57,Bogota,COP,$,Americas,South America,4.0,-72.0,🇨🇴
+49,Comoros,COM,KM,269,Moroni,KMF,CF,Africa,Eastern Africa,-12.16666666,44.25,🇰🇲
+50,Congo,COG,CG,242,Brazzaville,XAF,FC,Africa,Middle Africa,-1.0,15.0,🇨🇬
+51,Congo The Democratic Republic Of The,COD,CD,243,Kinshasa,CDF,FC,Africa,Middle Africa,0.0,25.0,🇨🇩
+52,Cook Islands,COK,CK,682,Avarua,NZD,$,Oceania,Polynesia,-21.23333333,-159.76666666,🇨🇰
+53,Costa Rica,CRI,CR,506,San Jose,CRC,₡,Americas,Central America,10.0,-84.0,🇨🇷
+54,Cote D'Ivoire (Ivory Coast),CIV,CI,225,Yamoussoukro,XOF,CFA,Africa,Western Africa,8.0,-5.0,🇨🇮
+55,Croatia (Hrvatska),HRV,HR,385,Zagreb,HRK,kn,Europe,Southern Europe,45.16666666,15.5,🇭🇷
+56,Cuba,CUB,CU,53,Havana,CUP,$,Americas,Caribbean,21.5,-80.0,🇨🇺
+57,Curaçao,CUW,CW,599,Willemstad,ANG,ƒ,Americas,Caribbean,12.116667,-68.933333,🇨🇼
+58,Cyprus,CYP,CY,357,Nicosia,EUR,€,Europe,Southern Europe,35.0,33.0,🇨🇾
+59,Czech Republic,CZE,CZ,420,Prague,CZK,Kč,Europe,Eastern Europe,49.75,15.5,🇨🇿
+60,Denmark,DNK,DK,45,Copenhagen,DKK,Kr.,Europe,Northern Europe,56.0,10.0,🇩🇰
+61,Djibouti,DJI,DJ,253,Djibouti,DJF,Fdj,Africa,Eastern Africa,11.5,43.0,🇩🇯
+62,Dominica,DMA,DM,+1-767,Roseau,XCD,$,Americas,Caribbean,15.41666666,-61.33333333,🇩🇲
+63,Dominican Republic,DOM,DO,+1-809 and 1-829,Santo Domingo,DOP,$,Americas,Caribbean,19.0,-70.66666666,🇩🇴
+64,East Timor,TLS,TL,670,Dili,USD,$,Asia,South-Eastern Asia,-8.83333333,125.91666666,🇹🇱
+65,Ecuador,ECU,EC,593,Quito,USD,$,Americas,South America,-2.0,-77.5,🇪🇨
+66,Egypt,EGY,EG,20,Cairo,EGP,ج.م,Africa,Northern Africa,27.0,30.0,🇪🇬
+67,El Salvador,SLV,SV,503,San Salvador,USD,$,Americas,Central America,13.83333333,-88.91666666,🇸🇻
+68,Equatorial Guinea,GNQ,GQ,240,Malabo,XAF,FCFA,Africa,Middle Africa,2.0,10.0,🇬🇶
+69,Eritrea,ERI,ER,291,Asmara,ERN,Nfk,Africa,Eastern Africa,15.0,39.0,🇪🇷
+70,Estonia,EST,EE,372,Tallinn,EUR,€,Europe,Northern Europe,59.0,26.0,🇪🇪
+71,Ethiopia,ETH,ET,251,Addis Ababa,ETB,Nkf,Africa,Eastern Africa,8.0,38.0,🇪🇹
+72,Falkland Islands,FLK,FK,500,Stanley,FKP,£,Americas,South America,-51.75,-59.0,🇫🇰
+73,Faroe Islands,FRO,FO,298,Torshavn,DKK,Kr.,Europe,Northern Europe,62.0,-7.0,🇫🇴
+74,Fiji Islands,FJI,FJ,679,Suva,FJD,FJ$,Oceania,Melanesia,-18.0,175.0,🇫🇯
+75,Finland,FIN,FI,358,Helsinki,EUR,€,Europe,Northern Europe,64.0,26.0,🇫🇮
+76,France,FRA,FR,33,Paris,EUR,€,Europe,Western Europe,46.0,2.0,🇫🇷
+77,French Guiana,GUF,GF,594,Cayenne,EUR,€,Americas,South America,4.0,-53.0,🇬🇫
+78,French Polynesia,PYF,PF,689,Papeete,XPF,₣,Oceania,Polynesia,-15.0,-140.0,🇵🇫
+79,French Southern Territories,ATF,TF,,Port-aux-Francais,EUR,€,Africa,Southern Africa,-49.25,69.167,🇹🇫
+80,Gabon,GAB,GA,241,Libreville,XAF,FCFA,Africa,Middle Africa,-1.0,11.75,🇬🇦
+81,Gambia The,GMB,GM,220,Banjul,GMD,D,Africa,Western Africa,13.46666666,-16.56666666,🇬🇲
+82,Georgia,GEO,GE,995,Tbilisi,GEL,ლ,Asia,Western Asia,42.0,43.5,🇬🇪
+83,Germany,DEU,DE,49,Berlin,EUR,€,Europe,Western Europe,51.0,9.0,🇩🇪
+84,Ghana,GHA,GH,233,Accra,GHS,GH₵,Africa,Western Africa,8.0,-2.0,🇬🇭
+85,Gibraltar,GIB,GI,350,Gibraltar,GIP,£,Europe,Southern Europe,36.13333333,-5.35,🇬🇮
+86,Greece,GRC,GR,30,Athens,EUR,€,Europe,Southern Europe,39.0,22.0,🇬🇷
+87,Greenland,GRL,GL,299,Nuuk,DKK,Kr.,Americas,Northern America,72.0,-40.0,🇬🇱
+88,Grenada,GRD,GD,+1-473,St. George's,XCD,$,Americas,Caribbean,12.11666666,-61.66666666,🇬🇩
+89,Guadeloupe,GLP,GP,590,Basse-Terre,EUR,€,Americas,Caribbean,16.25,-61.583333,🇬🇵
+90,Guam,GUM,GU,+1-671,Hagatna,USD,$,Oceania,Micronesia,13.46666666,144.78333333,🇬🇺
+91,Guatemala,GTM,GT,502,Guatemala City,GTQ,Q,Americas,Central America,15.5,-90.25,🇬🇹
+92,Guernsey and Alderney,GGY,GG,+44-1481,St Peter Port,GBP,£,Europe,Northern Europe,49.46666666,-2.58333333,🇬🇬
+93,Guinea,GIN,GN,224,Conakry,GNF,FG,Africa,Western Africa,11.0,-10.0,🇬🇳
+94,Guinea-Bissau,GNB,GW,245,Bissau,XOF,CFA,Africa,Western Africa,12.0,-15.0,🇬🇼
+95,Guyana,GUY,GY,592,Georgetown,GYD,$,Americas,South America,5.0,-59.0,🇬🇾
+96,Haiti,HTI,HT,509,Port-au-Prince,HTG,G,Americas,Caribbean,19.0,-72.41666666,🇭🇹
+97,Heard Island and McDonald Islands,HMD,HM,,,AUD,$,,,-53.1,72.51666666,🇭🇲
+98,Honduras,HND,HN,504,Tegucigalpa,HNL,L,Americas,Central America,15.0,-86.5,🇭🇳
+99,Hong Kong S.A.R.,HKG,HK,852,Hong Kong,HKD,$,Asia,Eastern Asia,22.25,114.16666666,🇭🇰
+100,Hungary,HUN,HU,36,Budapest,HUF,Ft,Europe,Eastern Europe,47.0,20.0,🇭🇺
+101,Iceland,ISL,IS,354,Reykjavik,ISK,kr,Europe,Northern Europe,65.0,-18.0,🇮🇸
+102,India,IND,IN,91,New Delhi,INR,₹,Asia,Southern Asia,20.0,77.0,🇮🇳
+103,Indonesia,IDN,ID,62,Jakarta,IDR,Rp,Asia,South-Eastern Asia,-5.0,120.0,🇮🇩
+104,Iran,IRN,IR,98,Tehran,IRR,﷼,Asia,Southern Asia,32.0,53.0,🇮🇷
+105,Iraq,IRQ,IQ,964,Baghdad,IQD,د.ع,Asia,Western Asia,33.0,44.0,🇮🇶
+106,Ireland,IRL,IE,353,Dublin,EUR,€,Europe,Northern Europe,53.0,-8.0,🇮🇪
+107,Israel,ISR,IL,972,Jerusalem,ILS,₪,Asia,Western Asia,31.5,34.75,🇮🇱
+108,Italy,ITA,IT,39,Rome,EUR,€,Europe,Southern Europe,42.83333333,12.83333333,🇮🇹
+109,Jamaica,JAM,JM,+1-876,Kingston,JMD,J$,Americas,Caribbean,18.25,-77.5,🇯🇲
+110,Japan,JPN,JP,81,Tokyo,JPY,¥,Asia,Eastern Asia,36.0,138.0,🇯🇵
+111,Jersey,JEY,JE,+44-1534,Saint Helier,GBP,£,Europe,Northern Europe,49.25,-2.16666666,🇯🇪
+112,Jordan,JOR,JO,962,Amman,JOD,ا.د,Asia,Western Asia,31.0,36.0,🇯🇴
+113,Kazakhstan,KAZ,KZ,7,Astana,KZT,лв,Asia,Central Asia,48.0,68.0,🇰🇿
+114,Kenya,KEN,KE,254,Nairobi,KES,KSh,Africa,Eastern Africa,1.0,38.0,🇰🇪
+115,Kiribati,KIR,KI,686,Tarawa,AUD,$,Oceania,Micronesia,1.41666666,173.0,🇰🇮
+116,Korea North,PRK,KP,850,Pyongyang,KPW,₩,Asia,Eastern Asia,40.0,127.0,🇰🇵
+117,Korea South,KOR,KR,82,Seoul,KRW,₩,Asia,Eastern Asia,37.0,127.5,🇰🇷
+118,Kosovo,XKX,XK,383,Pristina,EUR,€,Europe,Eastern Europe,42.5612909,20.3403035,🇽🇰
+119,Kuwait,KWT,KW,965,Kuwait City,KWD,ك.د,Asia,Western Asia,29.5,45.75,🇰🇼
+120,Kyrgyzstan,KGZ,KG,996,Bishkek,KGS,лв,Asia,Central Asia,41.0,75.0,🇰🇬
+121,Laos,LAO,LA,856,Vientiane,LAK,₭,Asia,South-Eastern Asia,18.0,105.0,🇱🇦
+122,Latvia,LVA,LV,371,Riga,EUR,€,Europe,Northern Europe,57.0,25.0,🇱🇻
+123,Lebanon,LBN,LB,961,Beirut,LBP,£,Asia,Western Asia,33.83333333,35.83333333,🇱🇧
+124,Lesotho,LSO,LS,266,Maseru,LSL,L,Africa,Southern Africa,-29.5,28.5,🇱🇸
+125,Liberia,LBR,LR,231,Monrovia,LRD,$,Africa,Western Africa,6.5,-9.5,🇱🇷
+126,Libya,LBY,LY,218,Tripolis,LYD,د.ل,Africa,Northern Africa,25.0,17.0,🇱🇾
+127,Liechtenstein,LIE,LI,423,Vaduz,CHF,CHf,Europe,Western Europe,47.26666666,9.53333333,🇱🇮
+128,Lithuania,LTU,LT,370,Vilnius,EUR,€,Europe,Northern Europe,56.0,24.0,🇱🇹
+129,Luxembourg,LUX,LU,352,Luxembourg,EUR,€,Europe,Western Europe,49.75,6.16666666,🇱🇺
+130,Macau S.A.R.,MAC,MO,853,Macao,MOP,$,Asia,Eastern Asia,22.16666666,113.55,🇲🇴
+131,Macedonia,MKD,MK,389,Skopje,MKD,ден,Europe,Southern Europe,41.83333333,22.0,🇲🇰
+132,Madagascar,MDG,MG,261,Antananarivo,MGA,Ar,Africa,Eastern Africa,-20.0,47.0,🇲🇬
+133,Malawi,MWI,MW,265,Lilongwe,MWK,MK,Africa,Eastern Africa,-13.5,34.0,🇲🇼
+134,Malaysia,MYS,MY,60,Kuala Lumpur,MYR,RM,Asia,South-Eastern Asia,2.5,112.5,🇲🇾
+135,Maldives,MDV,MV,960,Male,MVR,Rf,Asia,Southern Asia,3.25,73.0,🇲🇻
+136,Mali,MLI,ML,223,Bamako,XOF,CFA,Africa,Western Africa,17.0,-4.0,🇲🇱
+137,Malta,MLT,MT,356,Valletta,EUR,€,Europe,Southern Europe,35.83333333,14.58333333,🇲🇹
+138,Man (Isle of),IMN,IM,+44-1624,"Douglas, Isle of Man",GBP,£,Europe,Northern Europe,54.25,-4.5,🇮🇲
+139,Marshall Islands,MHL,MH,692,Majuro,USD,$,Oceania,Micronesia,9.0,168.0,🇲🇭
+140,Martinique,MTQ,MQ,596,Fort-de-France,EUR,€,Americas,Caribbean,14.666667,-61.0,🇲🇶
+141,Mauritania,MRT,MR,222,Nouakchott,MRO,MRU,Africa,Western Africa,20.0,-12.0,🇲🇷
+142,Mauritius,MUS,MU,230,Port Louis,MUR,₨,Africa,Eastern Africa,-20.28333333,57.55,🇲🇺
+143,Mayotte,MYT,YT,262,Mamoudzou,EUR,€,Africa,Eastern Africa,-12.83333333,45.16666666,🇾🇹
+144,Mexico,MEX,MX,52,Mexico City,MXN,$,Americas,Central America,23.0,-102.0,🇲🇽
+145,Micronesia,FSM,FM,691,Palikir,USD,$,Oceania,Micronesia,6.91666666,158.25,🇫🇲
+146,Moldova,MDA,MD,373,Chisinau,MDL,L,Europe,Eastern Europe,47.0,29.0,🇲🇩
+147,Monaco,MCO,MC,377,Monaco,EUR,€,Europe,Western Europe,43.73333333,7.4,🇲🇨
+148,Mongolia,MNG,MN,976,Ulan Bator,MNT,₮,Asia,Eastern Asia,46.0,105.0,🇲🇳
+149,Montenegro,MNE,ME,382,Podgorica,EUR,€,Europe,Southern Europe,42.5,19.3,🇲🇪
+150,Montserrat,MSR,MS,+1-664,Plymouth,XCD,$,Americas,Caribbean,16.75,-62.2,🇲🇸
+151,Morocco,MAR,MA,212,Rabat,MAD,DH,Africa,Northern Africa,32.0,-5.0,🇲🇦
+152,Mozambique,MOZ,MZ,258,Maputo,MZN,MT,Africa,Eastern Africa,-18.25,35.0,🇲🇿
+153,Myanmar,MMR,MM,95,Nay Pyi Taw,MMK,K,Asia,South-Eastern Asia,22.0,98.0,🇲🇲
+154,Namibia,NAM,NA,264,Windhoek,NAD,$,Africa,Southern Africa,-22.0,17.0,🇳🇦
+155,Nauru,NRU,NR,674,Yaren,AUD,$,Oceania,Micronesia,-0.53333333,166.91666666,🇳🇷
+156,Nepal,NPL,NP,977,Kathmandu,NPR,₨,Asia,Southern Asia,28.0,84.0,🇳🇵
+157,Netherlands The,NLD,NL,31,Amsterdam,EUR,€,Europe,Western Europe,52.5,5.75,🇳🇱
+158,New Caledonia,NCL,NC,687,Noumea,XPF,₣,Oceania,Melanesia,-21.5,165.5,🇳🇨
+159,New Zealand,NZL,NZ,64,Wellington,NZD,$,Oceania,Australia and New Zealand,-41.0,174.0,🇳🇿
+160,Nicaragua,NIC,NI,505,Managua,NIO,C$,Americas,Central America,13.0,-85.0,🇳🇮
+161,Niger,NER,NE,227,Niamey,XOF,CFA,Africa,Western Africa,16.0,8.0,🇳🇪
+162,Nigeria,NGA,NG,234,Abuja,NGN,₦,Africa,Western Africa,10.0,8.0,🇳🇬
+163,Niue,NIU,NU,683,Alofi,NZD,$,Oceania,Polynesia,-19.03333333,-169.86666666,🇳🇺
+164,Norfolk Island,NFK,NF,672,Kingston,AUD,$,Oceania,Australia and New Zealand,-29.03333333,167.95,🇳🇫
+165,Northern Mariana Islands,MNP,MP,+1-670,Saipan,USD,$,Oceania,Micronesia,15.2,145.75,🇲🇵
+166,Norway,NOR,NO,47,Oslo,NOK,kr,Europe,Northern Europe,62.0,10.0,🇳🇴
+167,Oman,OMN,OM,968,Muscat,OMR,.ع.ر,Asia,Western Asia,21.0,57.0,🇴🇲
+168,Pakistan,PAK,PK,92,Islamabad,PKR,₨,Asia,Southern Asia,30.0,70.0,🇵🇰
+169,Palau,PLW,PW,680,Melekeok,USD,$,Oceania,Micronesia,7.5,134.5,🇵🇼
+170,Palestinian Territory Occupied,PSE,PS,970,East Jerusalem,ILS,₪,Asia,Western Asia,31.9,35.2,🇵🇸
+171,Panama,PAN,PA,507,Panama City,PAB,B/.,Americas,Central America,9.0,-80.0,🇵🇦
+172,Papua new Guinea,PNG,PG,675,Port Moresby,PGK,K,Oceania,Melanesia,-6.0,147.0,🇵🇬
+173,Paraguay,PRY,PY,595,Asuncion,PYG,₲,Americas,South America,-23.0,-58.0,🇵🇾
+174,Peru,PER,PE,51,Lima,PEN,S/.,Americas,South America,-10.0,-76.0,🇵🇪
+175,Philippines,PHL,PH,63,Manila,PHP,₱,Asia,South-Eastern Asia,13.0,122.0,🇵🇭
+176,Pitcairn Island,PCN,PN,870,Adamstown,NZD,$,Oceania,Polynesia,-25.06666666,-130.1,🇵🇳
+177,Poland,POL,PL,48,Warsaw,PLN,zł,Europe,Eastern Europe,52.0,20.0,🇵🇱
+178,Portugal,PRT,PT,351,Lisbon,EUR,€,Europe,Southern Europe,39.5,-8.0,🇵🇹
+179,Puerto Rico,PRI,PR,+1-787 and 1-939,San Juan,USD,$,Americas,Caribbean,18.25,-66.5,🇵🇷
+180,Qatar,QAT,QA,974,Doha,QAR,ق.ر,Asia,Western Asia,25.5,51.25,🇶🇦
+181,Reunion,REU,RE,262,Saint-Denis,EUR,€,Africa,Eastern Africa,-21.15,55.5,🇷🇪
+182,Romania,ROU,RO,40,Bucharest,RON,lei,Europe,Eastern Europe,46.0,25.0,🇷🇴
+183,Russia,RUS,RU,7,Moscow,RUB,₽,Europe,Eastern Europe,60.0,100.0,🇷🇺
+184,Rwanda,RWA,RW,250,Kigali,RWF,FRw,Africa,Eastern Africa,-2.0,30.0,🇷🇼
+185,Saint Helena,SHN,SH,290,Jamestown,SHP,£,Africa,Western Africa,-15.95,-5.7,🇸🇭
+186,Saint Kitts And Nevis,KNA,KN,+1-869,Basseterre,XCD,$,Americas,Caribbean,17.33333333,-62.75,🇰🇳
+187,Saint Lucia,LCA,LC,+1-758,Castries,XCD,$,Americas,Caribbean,13.88333333,-60.96666666,🇱🇨
+188,Saint Pierre and Miquelon,SPM,PM,508,Saint-Pierre,EUR,€,Americas,Northern America,46.83333333,-56.33333333,🇵🇲
+189,Saint Vincent And The Grenadines,VCT,VC,+1-784,Kingstown,XCD,$,Americas,Caribbean,13.25,-61.2,🇻🇨
+190,Saint-Barthelemy,BLM,BL,590,Gustavia,EUR,€,Americas,Caribbean,18.5,-63.41666666,🇧🇱
+191,Saint-Martin (French part),MAF,MF,590,Marigot,EUR,€,Americas,Caribbean,18.08333333,-63.95,🇲🇫
+192,Samoa,WSM,WS,685,Apia,WST,SAT,Oceania,Polynesia,-13.58333333,-172.33333333,🇼🇸
+193,San Marino,SMR,SM,378,San Marino,EUR,€,Europe,Southern Europe,43.76666666,12.41666666,🇸🇲
+194,Sao Tome and Principe,STP,ST,239,Sao Tome,STD,Db,Africa,Middle Africa,1.0,7.0,🇸🇹
+195,Saudi Arabia,SAU,SA,966,Riyadh,SAR,﷼,Asia,Western Asia,25.0,45.0,🇸🇦
+196,Senegal,SEN,SN,221,Dakar,XOF,CFA,Africa,Western Africa,14.0,-14.0,🇸🇳
+197,Serbia,SRB,RS,381,Belgrade,RSD,din,Europe,Southern Europe,44.0,21.0,🇷🇸
+198,Seychelles,SYC,SC,248,Victoria,SCR,SRe,Africa,Eastern Africa,-4.58333333,55.66666666,🇸🇨
+199,Sierra Leone,SLE,SL,232,Freetown,SLL,Le,Africa,Western Africa,8.5,-11.5,🇸🇱
+200,Singapore,SGP,SG,65,Singapur,SGD,$,Asia,South-Eastern Asia,1.36666666,103.8,🇸🇬
+201,Sint Maarten (Dutch part),SXM,SX,1721,Philipsburg,ANG,ƒ,Americas,Caribbean,18.033333,-63.05,🇸🇽
+202,Slovakia,SVK,SK,421,Bratislava,EUR,€,Europe,Eastern Europe,48.66666666,19.5,🇸🇰
+203,Slovenia,SVN,SI,386,Ljubljana,EUR,€,Europe,Southern Europe,46.11666666,14.81666666,🇸🇮
+204,Solomon Islands,SLB,SB,677,Honiara,SBD,Si$,Oceania,Melanesia,-8.0,159.0,🇸🇧
+205,Somalia,SOM,SO,252,Mogadishu,SOS,Sh.so.,Africa,Eastern Africa,10.0,49.0,🇸🇴
+206,South Africa,ZAF,ZA,27,Pretoria,ZAR,R,Africa,Southern Africa,-29.0,24.0,🇿🇦
+207,South Georgia,SGS,GS,,Grytviken,GBP,£,Americas,South America,-54.5,-37.0,🇬🇸
+208,South Sudan,SSD,SS,211,Juba,SSP,£,Africa,Middle Africa,7.0,30.0,🇸🇸
+209,Spain,ESP,ES,34,Madrid,EUR,€,Europe,Southern Europe,40.0,-4.0,🇪🇸
+210,Sri Lanka,LKA,LK,94,Colombo,LKR,Rs,Asia,Southern Asia,7.0,81.0,🇱🇰
+211,Sudan,SDN,SD,249,Khartoum,SDG,.س.ج,Africa,Northern Africa,15.0,30.0,🇸🇩
+212,Suriname,SUR,SR,597,Paramaribo,SRD,$,Americas,South America,4.0,-56.0,🇸🇷
+213,Svalbard And Jan Mayen Islands,SJM,SJ,47,Longyearbyen,NOK,kr,Europe,Northern Europe,78.0,20.0,🇸🇯
+214,Swaziland,SWZ,SZ,268,Mbabane,SZL,E,Africa,Southern Africa,-26.5,31.5,🇸🇿
+215,Sweden,SWE,SE,46,Stockholm,SEK,kr,Europe,Northern Europe,62.0,15.0,🇸🇪
+216,Switzerland,CHE,CH,41,Berne,CHF,CHf,Europe,Western Europe,47.0,8.0,🇨🇭
+217,Syria,SYR,SY,963,Damascus,SYP,LS,Asia,Western Asia,35.0,38.0,🇸🇾
+218,Taiwan,TWN,TW,886,Taipei,TWD,$,Asia,Eastern Asia,23.5,121.0,🇹🇼
+219,Tajikistan,TJK,TJ,992,Dushanbe,TJS,SM,Asia,Central Asia,39.0,71.0,🇹🇯
+220,Tanzania,TZA,TZ,255,Dodoma,TZS,TSh,Africa,Eastern Africa,-6.0,35.0,🇹🇿
+221,Thailand,THA,TH,66,Bangkok,THB,฿,Asia,South-Eastern Asia,15.0,100.0,🇹🇭
+222,Togo,TGO,TG,228,Lome,XOF,CFA,Africa,Western Africa,8.0,1.16666666,🇹🇬
+223,Tokelau,TKL,TK,690,,NZD,$,Oceania,Polynesia,-9.0,-172.0,🇹🇰
+224,Tonga,TON,TO,676,Nuku'alofa,TOP,$,Oceania,Polynesia,-20.0,-175.0,🇹🇴
+225,Trinidad And Tobago,TTO,TT,+1-868,Port of Spain,TTD,$,Americas,Caribbean,11.0,-61.0,🇹🇹
+226,Tunisia,TUN,TN,216,Tunis,TND,ت.د,Africa,Northern Africa,34.0,9.0,🇹🇳
+227,Turkey,TUR,TR,90,Ankara,TRY,₺,Asia,Western Asia,39.0,35.0,🇹🇷
+228,Turkmenistan,TKM,TM,993,Ashgabat,TMT,T,Asia,Central Asia,40.0,60.0,🇹🇲
+229,Turks And Caicos Islands,TCA,TC,+1-649,Cockburn Town,USD,$,Americas,Caribbean,21.75,-71.58333333,🇹🇨
+230,Tuvalu,TUV,TV,688,Funafuti,AUD,$,Oceania,Polynesia,-8.0,178.0,🇹🇻
+231,Uganda,UGA,UG,256,Kampala,UGX,USh,Africa,Eastern Africa,1.0,32.0,🇺🇬
+232,Ukraine,UKR,UA,380,Kiev,UAH,₴,Europe,Eastern Europe,49.0,32.0,🇺🇦
+233,United Arab Emirates,ARE,AE,971,Abu Dhabi,AED,إ.د,Asia,Western Asia,24.0,54.0,🇦🇪
+234,United Kingdom,GBR,GB,44,London,GBP,£,Europe,Northern Europe,54.0,-2.0,🇬🇧
+235,United States,USA,US,1,Washington,USD,$,Americas,Northern America,38.0,-97.0,🇺🇸
+236,United States Minor Outlying Islands,UMI,UM,1,,USD,$,Americas,Northern America,0.0,0.0,🇺🇲
+237,Uruguay,URY,UY,598,Montevideo,UYU,$,Americas,South America,-33.0,-56.0,🇺🇾
+238,Uzbekistan,UZB,UZ,998,Tashkent,UZS,лв,Asia,Central Asia,41.0,64.0,🇺🇿
+239,Vanuatu,VUT,VU,678,Port Vila,VUV,VT,Oceania,Melanesia,-16.0,167.0,🇻🇺
+240,Vatican City State (Holy See),VAT,VA,379,Vatican City,EUR,€,Europe,Southern Europe,41.9,12.45,🇻🇦
+241,Venezuela,VEN,VE,58,Caracas,VEF,Bs,Americas,South America,8.0,-66.0,🇻🇪
+242,Vietnam,VNM,VN,84,Hanoi,VND,₫,Asia,South-Eastern Asia,16.16666666,107.83333333,🇻🇳
+243,Virgin Islands (British),VGB,VG,+1-284,Road Town,USD,$,Americas,Caribbean,18.431383,-64.62305,🇻🇬
+244,Virgin Islands (US),VIR,VI,+1-340,Charlotte Amalie,USD,$,Americas,Caribbean,18.34,-64.93,🇻🇮
+245,Wallis And Futuna Islands,WLF,WF,681,Mata Utu,XPF,₣,Oceania,Polynesia,-13.3,-176.2,🇼🇫
+246,Western Sahara,ESH,EH,212,El-Aaiun,MAD,MAD,Africa,Northern Africa,24.5,-13.0,🇪🇭
+247,Yemen,YEM,YE,967,Sanaa,YER,﷼,Asia,Western Asia,15.0,48.0,🇾🇪
+248,Zambia,ZMB,ZM,260,Lusaka,ZMW,ZK,Africa,Eastern Africa,-15.0,30.0,🇿🇲
+249,Zimbabwe,ZWE,ZW,263,Harare,ZWL,$,Africa,Eastern Africa,-20.0,30.0,🇿🇼

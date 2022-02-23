@@ -1,4 +1,4 @@
-country,Country Code,year,Time Code,gov_dept_perc_gdp,gov_dept_total_lcu,net_acquisition_fin_assets_gdp,net_acquisition_fin_assets_lcu,net_incurrence_liabilities_perc_dgp,net_incurrence_liabilities_lcu,net_investment _nonfin_ass_perc_gdp,net_investment_nonfin_ass_lcu,net_landing_borrowing_gdp,net_landing_borrowing_lcu
+country,Country Code,year,Time Code,gov_dept_perc_gdp,gov_dept_total_lcu,net_acquisition_fin_assets_gdp,net_acquisition_fin_assets_lcu,net_incurrence_liabilities_perc_dgp,net_incurrence_liabilities_lcu,net_investment_nonfin_ass_perc_gdp,net_investment_nonfin_ass_lcu,net_landing_borrowing_gdp,net_landing_borrowing_lcu
 Afghanistan,AFG,1960,YR1960,,,,,,,,,,
 Afghanistan,AFG,1961,YR1961,,,,,,,,,,
 Afghanistan,AFG,1962,YR1962,,,,,,,,,,
